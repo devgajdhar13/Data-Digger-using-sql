@@ -118,23 +118,23 @@ erDiagram
 
 ### Retrieve All Customer Details
 
-![Retrieve All Customer Details](assets/screenshots/customer-retrieve-all.png)
+![Retrieve All Customer Details](./Customer_Queries_SS/Customer_Detail.png)
 
 ### Delete Customer Using CustomerID
 
-![Delete Customer](assets/screenshots/customer-delete.png)
+![Delete Customer](./Customer_Queries_SS/Delete_Customer.png)
 
 ### Display All Customers Whose Name Is Alice
 
-![Alice Customers](assets/screenshots/customer-alice.png)
+![Alice Customers](./Customer_Queries_SS/Display_All_Customer.png)
 
 ### Insert Customer Values
 
-![Insert Customers](assets/screenshots/customer-insert.png)
+![Insert Customers](./Customer_Queries_SS/Insert_Values.png)
 
 ### Update Customer Address
 
-![Update Customer Address](assets/screenshots/customer-update-address.png)
+![Update Customer Address](./Customer_Queries_SS/Update_Address.png)
 
 ---
 
@@ -142,27 +142,27 @@ erDiagram
 
 ### Delete Order Using OrderID
 
-![Delete Order](assets/screenshots/order-delete.png)
+![Delete Order](./Order_Queries_SS/Delete_Order.png)
 
 ### Highest, Lowest and Average Order Amount
 
-![Highest Lowest Average](assets/screenshots/order-highest-lowest-avg.png)
+![Highest Lowest Average](./Order_Queries_SS/Higest_Lowest_Avg.png)
 
 ### Insert Orders
 
-![Insert Orders](assets/screenshots/order-insert.png)
+![Insert Orders](./Order_Queries_SS/Insert_Order.png)
 
 ### Retrieve Orders in the Last 30 Days
 
-![Last 30 Days Orders](assets/screenshots/order-last-30-days.png)
+![Last 30 Days Orders](./Order_Queries_SS/Last30day_Order.png)
 
 ### Retrieve Orders for a Specific Customer
 
-![Specific Customer Orders](assets/screenshots/order-specific-customer.png)
+![Specific Customer Orders](./Order_Queries_SS/Specific_Customer.png)
 
 ### Update Order Total Amount
 
-![Update Order Total](assets/screenshots/order-update-total.png)
+![Update Order Total](./Order_Queries_SS/Total_Amount.png)
 
 ---
 
@@ -170,27 +170,27 @@ erDiagram
 
 ### Delete Product if Out of Stock
 
-![Delete Out of Stock Product](assets/screenshots/product-delete-out-of-stock.png)
+![Delete Out of Stock Product](./Product_Table/Delete_Product.png)
 
 ### Insert Sample Products
 
-![Insert Products](assets/screenshots/product-insert.png)
+![Insert Products](./Product_Table/Insert_Product.png)
 
 ### Most Expensive and Cheapest Product
 
-![Min Max Products](assets/screenshots/product-min-max.png)
+![Min Max Products](./Product_Table/Min_Max.png)
 
 ### Products Between ₹500 and ₹2000
 
-![Product Price Range](assets/screenshots/product-price-range.png)
+![Product Price Range](./Product_Table/product_price_between_500_and_2000.png)
 
 ### Sort Products by Price
 
-![Sorted Products](assets/screenshots/product-sort-price.png)
+![Sorted Products](./Product_Table/Sorted_by_price.png)
 
 ### Update Product Price
 
-![Update Product Price](assets/screenshots/product-update-price.png)
+![Update Product Price](./Product_Table/Update_Product.png)
 
 ---
 
@@ -198,23 +198,23 @@ erDiagram
 
 ### Insert OrderDetails Records
 
-![Insert OrderDetails](assets/screenshots/order-details-insert.png)
+![Insert OrderDetails](./Order_Detail/Insert_Record.png)
 
 ### Retrieve Order Details for a Specific Order
 
-![Specific Order Details](assets/screenshots/order-details-specific-order.png)
+![Specific Order Details](./Order_Detail/Order_Detail.png)
 
 ### Count Product Sales
 
-![Product Count](assets/screenshots/order-details-product-count.png)
+![Product Count](./Order_Detail/product_count.png)
 
 ### Top 3 Most Ordered Products
 
-![Top 3 Products](assets/screenshots/order-details-top3-products.png)
+![Top 3 Products](./Order_Detail/top3_most_order.png)
 
 ### Total Revenue
 
-![Total Revenue](assets/screenshots/order-details-total-revenue.png)
+![Total Revenue](./Order_Detail/Total_Revenue.png)
 
 ---
 
